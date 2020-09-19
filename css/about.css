@@ -1,0 +1,66 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;	
+}
+.logo2{
+	width: 250px;
+    display: block;
+    margin: 0 auto;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0 94 126 / 79%);
+    margin:0px 12px; 
+}
+.header-border{
+	border: 5px solid #e4e4e4;
+    display: block;
+}
+/*second secttion*/
+.second-section{
+	width: 100%;
+	float: left;
+	padding-top: 10px;
+    padding-bottom: 47px;
+}
+.section-content{
+
+}
+.section-content h2{
+	margin-top: 20px;
+    margin-bottom: 50px;
+
+}
+
+.section-content p{
+	color: #6b6b6b;
+}
+.about-car{
+
+}
+.img-car{
+	width: 500px;
+    margin: 25px 0px;
+    padding-top: 28px;
+}
+.about-car p{
+	margin: 28px 0px;
+    color: #6b6b6b;
+}
+/*last section*/
+.last-section{
+	width: 100%;
+    float: left;
+    background: #ef4035;
+}
+
+.last-contant p{
+	text-align: center;
+    color: #ffffff;
+    margin: 25px 0px;
+}
